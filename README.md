@@ -1,5 +1,4 @@
 # Fitness App
-***
 
 **FitnessApp** is a backend and frontend project to practice **React**.
 
