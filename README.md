@@ -17,14 +17,21 @@ You can deploy the project by yourself on your localhost following the next step
 * **Open a terminal to execute control commands**
 
 * **Initialize and start running the API**
+
     `cd backend`
+    
     `npm install`
+    
     `npm start`
 
 * **Now you are going to mount the React Application on your localhost**
+
     `cd ..`
+    
     `cd frontend`
+    
     `npm install`
+    
     `npm start`
 
 And then, you can access to the main page! http://localhost:3000/exercises
